@@ -1,5 +1,5 @@
 from keras.datasets import cifar10
-import following_gradient as fg
+from gradient import following_gradient as fg
 import numpy as np
 
 (X_train, y_train), (X_test, y_test) = cifar10.load_data()
