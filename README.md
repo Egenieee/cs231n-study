@@ -2,12 +2,11 @@
 ## Stanford University cs231n lecture
 
 Deep Learning 강의 cs231n를 공부하면서 소스 코드 실습 및 직접 작성
-***
 
-### cs231n 강의 목차
+### - cs231n 강의 목차
 ![003](./img/003.png)
 
-### Nearest Neighbor VS K Nearest Neighbor
+### - Nearest Neighbor VS K Nearest Neighbor
 ![008](./img/008.png)
 
 * 구현 file
@@ -15,23 +14,23 @@ Deep Learning 강의 cs231n를 공부하면서 소스 코드 실습 및 직접 �
 >nearest_neighbor.py   
 >k_nearest_neighbor.py
 
-### Loss Function
+### - Loss Function
 ![011](./img/011.png)
 
-* 구현 파일 
+* 구현 file 
 >get_loss.py   
 >loss_function.py
 
-### BackPropagation
+### - BackPropagation
 ![019](./img/019.png)
 
-* 구현 파일 
+* 구현 file 
 >following_gradient.py  
 >softmax_linear_cifar10.py
 
 BackProp을 이용하여 가중치 W 업데이트
 
-### Linear Classification VS Neural Network Classification
+### - Linear Classification VS Neural Network Classification
 ![022](./img/022.png)
 
 300개의 점을 두 모델로 각각 분류해본다.
@@ -45,7 +44,7 @@ BackProp을 이용하여 가중치 W 업데이트
 
 실행 결과
 
-* 구현 파일 
+* 구현 file 
 >following_gradient.py   
 >softmax_linear_cifar10.py
 
